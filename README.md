@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 ## Colour Picker🔥
 
 ### Explore 1000 different colours and use on your projects that stand out.
